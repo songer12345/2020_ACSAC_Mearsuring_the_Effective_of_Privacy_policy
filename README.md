@@ -24,7 +24,7 @@ Among them, 17,952 skills and 1,967 actions provide a privacy policy link.
 
 The privacy policy and description can be found in folder dataset.
 
-![Skill and actions in categories](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/numbers.png)
+![Skill and actions in categories](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/master/image2/numbers.png)
 
 
 
@@ -34,7 +34,7 @@ The privacy policy and description can be found in folder dataset.
 
 There are many very short privacy policies which are not informative.
 
-![Short privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/dataset/image2/short_policy.png)
+![Short privacy policy](https://github.com/voice-assistant-research/voice-assistant/blob/master/image2/short_policy.png)
 
 ### Broken links and incorrect URLs:
 
