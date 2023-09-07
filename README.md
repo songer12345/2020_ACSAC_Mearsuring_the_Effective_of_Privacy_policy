@@ -35,7 +35,7 @@ Among them, 17,952 skills and 1,967 actions provide a privacy policy link.
 
 The privacy policy and description can be found in folder dataset.
 
-![Skill and actions in categories](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/numbers.png)
+![Skill and actions in categories](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/numbers.png)
 
 
 
@@ -45,27 +45,27 @@ The privacy policy and description can be found in folder dataset.
 
 There are many very short privacy policies which are not informative.
 
-![Short privacy policy](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/short_policy.png)
+![Short privacy policy](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/short_policy.png)
 
 ### Broken links and incorrect URLs:
 
 Not all voice-apps have a privacy policy URL. For those voice-apps that have provided a privacy policy URL, not every URL leads to the page containing a privacy policy.
 
-![Broken_link](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/broken_link.png)
+![Broken_link](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/broken_link.png)
 
-![Incorrect_link](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/promotionpage.png)
+![Incorrect_link](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/promotionpage.png)
 
 ### Duplicate URLs:
 
 A substantial portion of privacy policies share same URLs. For the top 5 developers who published the most skills with a privacy policy, 99.8% of their skills use duplicate URLs.
 
-![Duplicate_link](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/duplicate.png)
+![Duplicate_link](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/duplicate.png)
 
 ### Official voice-apps:
 
 There are Google and Amazon’s official voice-apps violating their own requirements.
 
-![Official_apps](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/official.png)
+![Official_apps](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/official.png)
 
 ### Privacy with zero data practice:
 
@@ -75,7 +75,7 @@ There are Google and Amazon’s official voice-apps violating their own requirem
 
 Some voice-apps describe data collection in the description but not mentione in privacy policy.
 
-![Incomplete_privacy_policy](https://songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/incomplete.png)
+![Incomplete_privacy_policy](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/incomplete.png)
 
 
 Here are some example skills link:
@@ -88,7 +88,7 @@ Here are some example skills link:
 
 ### Lacking privacy policy:
 
-![Lacking_privacy_policy](https://github.com/songer12345/VPAPrivacyPolicyAnalysis/blob/main/image2/lack_policy.png)
+![Lacking_privacy_policy](https://github.com/songer12345/2020_ACSAC_Mearsuring_the_Effective_of_Privacy_policy/blob/main/image2/lack_policy.png)
 
 Here are some example skills link:
 
